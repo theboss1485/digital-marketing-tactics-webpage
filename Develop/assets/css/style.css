@@ -55,8 +55,9 @@ p {
     font-size: 16px;
 }
 
-.hero {
-    height: 800px;
+.image {
+    max-width: 100%;
+    height: auto;
     width: 100%;
     margin-bottom: 25px;
     background-size: cover;
@@ -77,6 +78,10 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+.image {
+    overflow:hidden;
 }
 
 .benefits {
