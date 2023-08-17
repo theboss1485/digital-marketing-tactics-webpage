@@ -3,8 +3,9 @@
 ## Description
 
 My motivation to build this project was to improve my own skills with HTML and CSS.  I built this project so that that I could learn to enhance and build upon 
-existing web development code.  This project solves the problem of original code not meeting standards of accessibility or organization.  I refactored the code so that it 
-met those standards.  In this project, I learned about how to organize code, and how to follow accessibility standards, such as alt text for images. 
+existing web development code.  This project solves the problem of original code not meeting appropriate standards of accessibility or organization.  The 
+assignment was to implement improvments to the code that allowed it to meet those standards.  I rebuilt and modified some of the code with improvments such as 
+semantic tags, alternate text for images, and consolidated CSS.  I also made sure all of the page's links functioned correctly.
 
 ## Table of Contents (Optional)
 
@@ -16,13 +17,14 @@ N/A
 
 ## Usage
 
-This is a single webpage.  The only elements that are truly interactive are the links at the top right of the page.  These links skip to the differenb
+This is a single webpage.  The only elements that are truly interactive are the links at the top right of the page.  These links skip to the different
 blue bars on the page.  
 
 Here is a link to the deployed webpage:
 
-Here is a screenshot of the webpage:
-    ```
+Below is a screenshot of the webpage.  Unfortunately, the only way I could get it to all fit on the screen at once was to take the screenshot when the browser was in mobile mode.
+
+ ![A screenshot of the digital marketing webpage](assets/images/screenshot-of-webpage.jpg)
 
 ## Credits
 
