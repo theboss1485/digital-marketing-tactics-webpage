@@ -24,7 +24,7 @@ Here is a link to the deployed webpage:
 
 Below is a screenshot of the webpage.  Unfortunately, the only way I could get it to all fit on the screen at once was to take the screenshot when the browser was in mobile mode.
 
- ![A screenshot of the digital marketing webpage](assets/images/screenshot-of-webpage.jpg)
+ ![A screenshot of the digital marketing webpage](Develop/assets/images/screenshot-of-webpage.JPG)
 
 ## Credits
 
