@@ -20,11 +20,11 @@ N/A
 This is a single webpage.  The only elements that are truly interactive are the links at the top right of the page.  These links skip to the different
 blue bars on the page.  
 
-Here is a link to the deployed webpage:
+Here is a link to the deployed webpage: [OSU Bootcamp Module 1 Challenge Repository](theboss1485.github.io/osu-bootcamp-module-1-challenge)
 
 Below is a screenshot of the webpage.  Unfortunately, the only way I could get it to all fit on the screen at once was to take the screenshot when the browser was in mobile mode.
 
- ![A screenshot of the digital marketing webpage](Develop/assets/images/screenshot-of-webpage.JPG)
+ ![A screenshot of the digital marketing webpage](/assets/images/screenshot-of-webpage.JPG)
 
 ## Credits
 
