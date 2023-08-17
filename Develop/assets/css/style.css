@@ -69,14 +69,15 @@ rather than just a div with a backround image on top of it.*/
     background-position: center;
     height: auto;
     margin-bottom: 25px;
-    max-width: 100%;
     width: 100%;
 }
 
+/*I used the calc function to make the width of 'content' section equal to the remaining space on the screen after
+accounting for the width of the sidebar and all necessary margins.  The Xpert Learning Assistant told me about this function.*/
 .content {
     display: inline-block;
     margin-left: 20px;
-    width: 75%;
+    width: calc(100% - 15em - 60px);
 }
 
 p {
@@ -103,8 +104,9 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     height: 100%;
     margin-right: 20px;
+    margin-left: 20px;
     padding: 20px;
-    width: 20%;    
+    width: 15em;
 }
 
 
