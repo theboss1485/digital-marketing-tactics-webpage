@@ -1,6 +1,6 @@
-/*This CSS file styles the HTML page for the Module 1 Challenge for the OSU Flex Web Development Bootcamp*/
+/*This CSS file styles the HTML page for the Module 1 Challenge for the OSU Flex Web Development Bootcamp.*/
 
-/*The star element is a wildcard selector the selects all elements on the page.*/
+/*The star element is a wildcard selector that selects all of the elements on the page.*/
 * {
     box-sizing: border-box;
     margin: 0;
@@ -26,7 +26,7 @@ header {
     font-size: 48px;
 }
 
-/*I used a <nav> element for the navigation bar at the top of the webpage, rather than a <div> element
+/*I used a <nav> element for the navigation bar at the top of the webpage, rather than a <div> element,
 because <nav> is a semantic element.*/
 nav {
     margin-left:auto;
@@ -34,7 +34,7 @@ nav {
 }
 
 /*Here, I was making the three links in the navigation bar at the top of the page display in a line, without using <div> tags.
-The Xpert Learning Assistant chatbot gave me to two properties below for assistance with this.*/
+The Xpert Learning Assistant chatbot gave me the two properties directly below.*/
 .centered-flex-container{
     align-items: center;
     display: flex;
@@ -49,7 +49,7 @@ ul {
     list-style-type: none;
 }
 
-/*Here, I need the links in the navigation bar to display in one line so that the page looks like the provided mockup.
+/*Here, I needed the links in the navigation bar to display in one line so that the page looks like the provided mockup.
 This is what the inline-block display setting is for.*/
 .links{
     display: inline-block;
@@ -62,8 +62,8 @@ a {
 }
 
 
-/*I made the background image that was originally in this CSS file into an actual image tag in the HTML page,
-rather than just a div with a backround image on top of it.*/
+/*I made the background image that was originally in this CSS file into an actual <img> tag in the HTML page,
+rather than just a <div> tag with a backround image on top of it.*/
 .image {
     background-size: cover;
     background-position: center;
@@ -72,8 +72,8 @@ rather than just a div with a backround image on top of it.*/
     width: 100%;
 }
 
-/*I used the calc function to make the width of 'content' section equal to the remaining space on the screen after
-accounting for the width of the sidebar and all necessary margins.  The Xpert Learning Assistant told me about this function.*/
+/*I used the calc() function to make the width of the 'content' section equal to the remaining space on the screen after
+accounting for the width of the sidebar and all necessary margins.  The Xpert Learning Assistant told me about the calc() function.*/
 .content {
     display: inline-block;
     margin-left: 20px;
@@ -84,7 +84,7 @@ p {
     font-size: 16px;
 }
 
-/*The three images on the three horizontal blue bars all have a class of eith 'float-left or float-right'.*/
+/*The three images on the three horizontal blue bars all have a class of either 'float-left' or 'float-right'.*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -111,7 +111,7 @@ p {
 
 
 /*Originally, each of the benefits on the sidebar had its own CSS slector for the benefit text, the benefit title, and the benefit image.
-I consolidated this so that that is only one selector for all three sidbar titles, one for all three benefit paragraphs, and 
+I consolidated these so that that is only one selector for all three sidbar titles, one for all three benefit paragraphs, and 
 one for all three benefit images.*/
 .individual-benefit {
     color: #ffffff;
@@ -129,8 +129,8 @@ h3 {
     max-width: 150px;
 }
 
-/*Originally, once again, each marketing tactic had its own selector for it's respective title, image, and paragraph.  I once again consolidated this so that
-there was one selector for all three titles, one for all three images, and one for all three paragraphs.*/
+/*Originally, once again, each marketing tactic had its own selector for its respective title, image, and paragraph.  I once again consolidated these so that
+there is one selector for all three titles, one for all three images, and one for all three paragraphs.*/
 .marketing-tactic {
     background-color: #0072bb;
     color: #ffffff;
