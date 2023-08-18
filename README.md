@@ -5,7 +5,8 @@
 My motivation to build this project was to improve my own skills with HTML and CSS.  I built this project so that that I could learn to enhance and build upon 
 existing web development code.  This project solves the problem of original code not meeting appropriate standards of accessibility or organization.  The 
 assignment was to implement improvments to the code that allowed it to meet those standards.  I rebuilt and modified some of the code with improvments such as 
-semantic tags, alternate text for images, and consolidated CSS.  I also made sure all of the page's links functioned correctly.
+semantic tags, alternate text for images, consolidated CSS, and a descriptive title.  For instance, I replaced the <div> tags in the assignment with tags such 
+as <nav>, <section>, and <aside>.  I also made sure all of the page's links function correctly.
 
 ## Table of Contents (Optional)
 
@@ -32,7 +33,7 @@ I didn't have any collaborators on this project.
 
 ## License
 
-This project is under an MIT license.  Please view the license in the GitHub repository for more information
+This project is under an MIT license.  Please view the license in the GitHub repository for more details.
 
 ## Badges
 
