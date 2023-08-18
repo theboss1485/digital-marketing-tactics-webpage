@@ -109,7 +109,7 @@ p {
 
 
 /*Originally, each of the benefits on the sidebar had its own CSS slector for the benefit text, the benefit title, and the benefit image.
-I consolidated these so that that is only one selector for all three sidbar titles, one for all three benefit paragraphs, and 
+I consolidated these so that there is only one selector for all three sidbar titles, one for all three benefit paragraphs, and 
 one for all three benefit images.*/
 .individual-benefit {
     color: #ffffff;
